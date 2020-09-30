@@ -1,0 +1,30 @@
+{
+  "name": "eppr-html-basico",
+  "version": "1.0.0",
+  "description": "EPPR 2020 - Plantilla de HTML Basico 1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EPPR/HTML-basico.git"
+  },
+  "keywords": [
+    "EPPR",
+    "HTML",
+    "INTRO"
+  ],
+  "author": "EPPR @lxps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EPPR/HTML-basico/issues"
+  },
+  "homepage": "https://github.com/EPPR/HTML-basico#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "moment": "^2.29.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
